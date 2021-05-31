@@ -1,5 +1,8 @@
 # Chadni Project
-
+- [Component List](#list-of-components)
+- [Design](#design)
+- [Building Process](#building-process)
+- [Results](#results)
 ## List of Components
 * Aluminium Sheets --- 2 x $16
 * Dayton DAEX25FHE-4 Audio Exciter --- 2 x $13.87

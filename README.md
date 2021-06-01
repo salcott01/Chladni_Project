@@ -29,6 +29,12 @@
 * Random bits of Plywood --- Free, courtesy of past/present members of the Faux Op
 
 ## Design
+Our design is centered around the use of an audio exciter, a device conventionally used to generate sound by mechanically vibrating ordinary surfaces as part of exotic sound systems. More information about them, particularly the brand we used, can be found [here](https://www.daytonaudio.com/category/180/exciters).
+
+Unfortunately, the task at hand was to drive a plate up and down, not conceal a surround sound system. We do this by (surprise surprise) attaching the plate to the audio exciter, albeit our setup is a little more complicated than that. The exciter is mounted to a piece of crap plywood, and the plate is connected to the exciter via a carriage bolt which raises it a good height above the platform. This allows the bolt to be run through a stabilization chamber that keeps the plate more or less level. The fine details of this entire construction will be discussed in the next section.
+
+A good deal of our design was inspired by the one found [here](https://www.instructables.com/Oobleck-Chladni-Plate/).
+
 ## Building Process
 ## Results and Analysis
 We got a lot of pretty pictures:

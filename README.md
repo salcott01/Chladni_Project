@@ -30,6 +30,10 @@
 
 ## Design
 ## Building Process
+##Theory
+###Our Hypothesis
+so, why not model it as a wave?
+![](https://github.com/salcott01/Chladni_Project/blob/main/thry.pdf)
 ## Results
 We got a lot of pretty pictures:
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8142.jpg)

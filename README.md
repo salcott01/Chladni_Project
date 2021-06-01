@@ -37,7 +37,11 @@ A good deal of our design was inspired by the one found [here](https://www.instr
 
 ## Building Process
 
-Possibly the biggest obstacle in out building process was getting the darn plate level so the salt wouldn't pile off once we turned the exciter on.  
+Possibly the biggest obstacle in out building process was getting the darn plate level so the salt wouldn't pile off as soon as we turned the exciter on. This was a more complicated problem than we anticipated and involved us reworking both how we mounted the exciter on the base and how the rod, which extended from the exciter, was supported and attached. 
+Initially, the exciter rested on bolts which were set on machine screws an inch or two above the plywood base. In this setup, not only was it difficult to get the machine screws sufficiently straight so that the exciter could comfortably slide along them, but it was also hard to get the bolts set consistently at the right height so that the exciter was set level. This problem had a pleasantly simple solution: mount the exciter (vertically) as close to the base as possible. We did this by cutting an appropriately sized hole with a jigsaw in plywood, drilling painfully precise holes for the screws, and fitting the exciter right in. The exciter is buffered a little bit from the base by bolts, which have no play to screw (get it?) up the alignment. 
+Slightly more difficult were the problems with how we the carriagle bolt, which connects the plate to the exciter, is attached to the exciter. Our first attempt involved cutting about an inch-long section of dowel, drilling a hole through that, sticking the bolt through it, and then attaching it to the exciter with some adhesive. This worked OK for our first few runs, but difficultly in drilling precisely straight through the dowel and to cutting its ends level manifested in an unlevel plate and biased patterns. 
+For our second attempt, we replaced the dowel with a metal washer which promised to solve both issues. Unfortunately, we overlooked the fact that the exciter is driven by a magnet, and the close proximity of the washer noticeably dampened its effect and eventually led to its early demise. 
+Third time's the charm however, and in what would be our final attempt, we used a 3/4" PVC endcap 
 
 ## Results and Analysis
 We got a lot of pretty pictures:

@@ -30,12 +30,10 @@
 
 ## Design
 ## Building Process
-##Theory
-###Our Hypothesis
-so, why not model it as a wave?
-![](https://github.com/salcott01/Chladni_Project/blob/main/thry.pdf)
-## Results
+## Results and Analysis
 We got a lot of pretty pictures:
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8142.jpg)
 So sensual...
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8143.jpg)
+### Our Hypothesis
+When the plate is driven, it vibrates in a way the is reminiscent of the vibration of a 2D membrane, so why not model it in this way and see if our experimental results match? [Here](https://github.com/salcott01/Chladni_Project/blob/main/thry.pdf) I've attached a short 3-page summary on the theory behind these driven vibrations. Based on this theory, we expect to find our first resonant frequency at about 7000 Hz (the speed of sound in shear aluminum is apparently ~3000 m/s)---noticeably disparate from the the first frequency at which we were able to observe nodal lines (around 200 Hz). And indeed, upon restrospection, the plate hosts several characteristics which make it distinct from an ideal 2D membrane and so poorly described by the wave equation. For one, 

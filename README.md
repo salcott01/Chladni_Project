@@ -24,8 +24,8 @@
 * 10-12" Hacksaw and Blade --- 1 x $9.51
 * Rustoleum Protective Enamel --- 1 x $4.58
 * Black Vinyl Electric Tape 10 pack --- $7.98
-* Pen Shaft --- Free, courtesy of Gabrielle Carrel
-* Drill/Drill Bit/Battery --- Free, courtesy of Sam Alcott
+* Pen Shaft --- Free, courtesy of G. Carrel
+* Drill/Drill Bit/Battery --- Free, courtesy of S. Alcott
 * Random bits of Plywood --- Free, courtesy of past/present members of the Faux Op
 
 ## Design

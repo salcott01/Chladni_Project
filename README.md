@@ -46,7 +46,7 @@ Initially, the exciter rested on bolts which were set on machine screws an inch 
 Slightly more difficult were the problems with how we the carriagle bolt, which connects the plate to the exciter, is attached to the exciter. Our first attempt involved cutting about an inch-long section of dowel, drilling a hole through that, sticking the bolt through it, and then attaching it to the exciter with some adhesive. This worked OK for our first few runs, but difficultly in drilling precisely straight through the dowel and to cutting its ends level manifested in an unlevel plate and subsequently biased patterns. 
 
 
-For our second attempt, we replaced the dowel with a metal washer which promised to solve both issues. Unfortunately, we overlooked the fact that the exciter is driven by a magnet, and predictably the close proximity of the washer dampened its effect and eventually caused to its early demise. 
+For our second attempt, we replaced the dowel with a metal washer which promised to solve both issues. Unfortunately, we overlooked the fact that the exciter is driven by a magnet, and predictably the close proximity of the washer dampened its effect and probably caused its early demise. 
 
 In what would be our final attempt (third time's the charm!), we used a 3/4" PVC endcap to raise the end of the bolt about an inch above the exciter. I drilled a hole slightly larger than necessary through the end and stuck a washer in tandem with the bolt on the inside end so that adjusting the angle at which the bolt exited the cap is possible. A wingnut slides screws over the bolt to clamp everything down and once everything was found to be nice and level, we attached the PVC to the exciter with some epoxy.
 

@@ -70,7 +70,7 @@ So sensual...
 ### Our Hypothesis
 Because we're dealing with sound and vibrating plates, the wave equation immediately comes to mind as a suitable mathematical model to test our experimental results with. [Here](https://github.com/salcott01/Chladni_Project/blob/main/thry.pdf) I've attached a short 3-page summary on the theory behind these driven vibrations. Based on this theory, we expect to find our first resonant frequency at about 7000 Hz (the speed of sound in shear aluminum is apparently ~3000 m/s)---noticeably disparate from the the first frequency at which we were able to observe nodal lines (around 200 Hz). And indeed, aluminum plates host a few characteristics that prevent them from being treated as an 2D membrane, thus making the wave equation an unapt descriptor. Probably the most damning of them all is the fact that aluminun is quite rigid and vibration causes motion along all axes at each point, leaving it best characterized by some combination of wave and material deformation.
 ### A Correction
-Some research on this topic confirms that the vibration is indeed not described sufficiently by the wave equation, but rather by the fourth-order Kirchoff equation
+Some research on this topic confirms that the vibration is indeed not governed by the wave equation, but rather by the fourth-order Kirchoff equation
 
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/test.png)
 

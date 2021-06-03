@@ -67,10 +67,7 @@ Cutting the plates was probably the most creative part of this project. Paul and
 We got a lot of pretty pictures:
 
 
-<img src="https://user-images.githubusercontent.com/83727151/120568092-11890500-c3c8-11eb-8ac9-fd7d838914c0.jpg" width="100" height="100"/>
-<img src="https://user-images.githubusercontent.com/83727151/120568096-12ba3200-c3c8-11eb-995a-04b26e6e2b23.jpg" width="100" height="100"/>
-<img src="https://user-images.githubusercontent.com/83727151/120568102-1483f580-c3c8-11eb-9400-dd548070a085.jpg" width="100" height="100"/>
-<img src="https://user-images.githubusercontent.com/83727151/120568105-164db900-c3c8-11eb-9ae4-f653bfa2d9d2.jpg" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/83727151/120568092-11890500-c3c8-11eb-8ac9-fd7d838914c0.jpg" width="540" height="410"/>  <img src="https://user-images.githubusercontent.com/83727151/120568096-12ba3200-c3c8-11eb-995a-04b26e6e2b23.jpg" width="410" height="410"/><img src="https://user-images.githubusercontent.com/83727151/120568102-1483f580-c3c8-11eb-9400-dd548070a085.jpg" width="475" height="380"/> <img src="https://user-images.githubusercontent.com/83727151/120568105-164db900-c3c8-11eb-9ae4-f653bfa2d9d2.jpg" width="475" height="360"/>
 
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8143.jpg)
 ### Our Hypothesis

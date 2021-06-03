@@ -37,7 +37,7 @@ A good deal of our design was inspired by the one found [here](https://www.instr
 
 ## Building Process
 
-![20210426_164221](https://user-images.githubusercontent.com/83727151/120567854-860f7400-c3c7-11eb-9395-93712a6d2702.jpg)
+![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8142.jpg)
 
 Possibly the biggest obstacle in out building process was getting the darn plate level so the salt wouldn't pile off as soon as we turned the exciter on. This was a more complicated problem than we anticipated and involved us reworking both how we mounted the exciter on the base and how the rod, which extended from the exciter, was supported and attached. 
 
@@ -65,7 +65,7 @@ Cutting the plates was probably the most creative part of this project. Paul and
 
 ## Results and Analysis
 We got a lot of pretty pictures:
-![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8142.jpg)
+
 ![Square Low Frequency Mosaic](https://user-images.githubusercontent.com/83727151/120568092-11890500-c3c8-11eb-8ac9-fd7d838914c0.jpg)
 ![Square High Frequency Mosaic](https://user-images.githubusercontent.com/83727151/120568096-12ba3200-c3c8-11eb-995a-04b26e6e2b23.jpg)
 ![Circular Mosaic](https://user-images.githubusercontent.com/83727151/120568102-1483f580-c3c8-11eb-9400-dd548070a085.jpg)

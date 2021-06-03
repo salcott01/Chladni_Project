@@ -66,6 +66,11 @@ Cutting the plates was probably the most creative part of this project. Paul and
 ## Results and Analysis
 We got a lot of pretty pictures:
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8142.jpg)
+![Square Low Frequency Mosaic](https://user-images.githubusercontent.com/83727151/120568092-11890500-c3c8-11eb-8ac9-fd7d838914c0.jpg)
+![Square High Frequency Mosaic](https://user-images.githubusercontent.com/83727151/120568096-12ba3200-c3c8-11eb-995a-04b26e6e2b23.jpg)
+![Circular Mosaic](https://user-images.githubusercontent.com/83727151/120568102-1483f580-c3c8-11eb-9400-dd548070a085.jpg)
+![Triangle Mosaic](https://user-images.githubusercontent.com/83727151/120568105-164db900-c3c8-11eb-9ae4-f653bfa2d9d2.jpg)
+
 
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8143.jpg)
 ### Our Hypothesis

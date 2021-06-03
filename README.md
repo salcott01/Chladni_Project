@@ -37,6 +37,8 @@ A good deal of our design was inspired by the one found [here](https://www.instr
 
 ## Building Process
 
+![20210426_164221](https://user-images.githubusercontent.com/83727151/120567854-860f7400-c3c7-11eb-9395-93712a6d2702.jpg)
+
 Possibly the biggest obstacle in out building process was getting the darn plate level so the salt wouldn't pile off as soon as we turned the exciter on. This was a more complicated problem than we anticipated and involved us reworking both how we mounted the exciter on the base and how the rod, which extended from the exciter, was supported and attached. 
 
 

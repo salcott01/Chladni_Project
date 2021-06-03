@@ -66,8 +66,7 @@ Cutting the plates was probably the most creative part of this project. Paul and
 ## Results and Analysis
 We got a lot of pretty pictures:
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8142.jpg)
-*So sensual...*
-![](https://github.com/salcott01/Chladni_Project/blob/main/8kdu7l7kthf61.jpg)
+
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8143.jpg)
 ### Our Hypothesis
 The words "sound" and "vibrating plates" naturally bring to mind the wave equation, and that's exactly how we decided to base our initial expectations on results contingent on it. [Here](https://github.com/salcott01/Chladni_Project/blob/main/thry.pdf) I've attached a short 3-page summary on the theory behind these driven vibrations. *Warning: there are probably several dozen typos.* Based on this theory, we expect to find our first resonant frequency at about 7000 Hz (the speed of sound in shear aluminum is apparently ~3000 m/s)---noticeably disparate from the the first frequency at which we were able to observe nodal lines (around 200 Hz). And indeed, aluminum plates host a few characteristics that prevent them from being treated as an 2D membrane, thus making the wave equation an unapt descriptor. Probably the most damning of them all is the fact that aluminun is quite rigid and vibration causes motion along all axes at each point, leaving it best characterized by some combination of wave and material deformation.

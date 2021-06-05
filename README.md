@@ -83,4 +83,4 @@ Nonetheless -∇² shares eigenfunctions with ∇⁴, meaning that the wave and 
 
 ![](https://github.com/salcott01/Chladni_Project/blob/main/collage.png)
 
-Each of these represent degenerate nodes (a sum of eigenfunctions cos(nπx/a)cos(mπy/a) with n²+m² = const), which I generated via the hastily put-together ![https://github.com/salcott01/Chladni_Project/blob/main/test.py](test.py). Indeed, similar patterns were apparent in our collected data.
+Each of these represent degenerate nodes (a sum of eigenfunctions cos(nπx/a)cos(mπy/a) with n²+m² = const), which I generated via the hastily put-together ![test.py](https://github.com/salcott01/Chladni_Project/blob/main/test.py). Indeed, similar patterns were apparent in our collected data.

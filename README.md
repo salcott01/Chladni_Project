@@ -2,9 +2,7 @@
 - [Component List](#list-of-components)
 - [Design](#design)
 - [Building Process](#building-process)
-- [Data Collection](#data-collection)
-- [Results and Analysis](#results-and-analysis)
-- [Citations](#citations)
+- [Results](#results)
 ## List of Components
 * Aluminium Sheets --- 2 x $16
 * Dayton DAEX25FHE-4 Audio Exciter --- 2 x $13.87
@@ -63,9 +61,6 @@ Cutting the plates was probably the most creative part of this project. Paul and
 
 
 
-## Data Collection
-One of the most time consuming parts of the project was finding good settings for the exciter to produce patterns. One big breakthrough was finding a website that produced louder waves for the exciter to play, which then allowed us to go up to higher frequencies (with lower volume into the exciter, the plate couldn't achieve resonance at high frequencies). After switching to the louder audio source, we were able to get much more intricate patterns than we could at lower frequencies. We discovered fairly late that this was possible, so we had a lot of data collection to do in the last week at the high frequencies. Sam did the most work finding frequencies, and took the majority of the photos shown in our results section.
-
 
 
 ## Results and Analysis
@@ -73,6 +68,16 @@ We got a lot of pretty pictures:
 
 
 <img src="https://user-images.githubusercontent.com/83727151/120568092-11890500-c3c8-11eb-8ac9-fd7d838914c0.jpg" width="540" height="410"/>  <img src="https://user-images.githubusercontent.com/83727151/120568096-12ba3200-c3c8-11eb-995a-04b26e6e2b23.jpg" width="410" height="410"/><img src="https://user-images.githubusercontent.com/83727151/120568102-1483f580-c3c8-11eb-9400-dd548070a085.jpg" width="475" height="380"/> <img src="https://user-images.githubusercontent.com/83727151/120568105-164db900-c3c8-11eb-9ae4-f653bfa2d9d2.jpg" width="475" height="360"/>
+
+After testing the triangular, square, and circular plates to determine the best methods of producing clean patterns, we began collecting our data. We found that desirable results were discoverable at only very specific frequencies, but also that it was very visible when we reached one of those frequencies because the plate would be noticeably more excited. We also found that the online tone generator website we used had a strong influence on the effectiveness of our setup, and we eventually landed on this one: https://onlinetonegenerator.com/. To take data for each plate we would begin in frequencies <100 Hz until we found one that produced a pattern. We then worked our way up the frequencies by intervals of about 20 Hz at first, at each interval adjusting by smaller frequency intervals until we found a pattern. As we reached increasingly high frequencies the patterns became less visually distinct from one another (though much prettier), so we increased the interval at which we would test for patterns. Our final results are not meant to be a comprehensive description of all patterns that can be created by these plates but rather a representative sample of a variety of frequency ranges. 
+
+
+Every time we found a frequency that produced clear patterns we would gently wipe the plate clean of any salt (or salt powder) and then poor a fresh, thin layer of salt across the surface. We would then carefully increase the volume of our output at the desired frequency until the salt arranged itself. We then took a birds-eye photograph of the plate along with its corresponding frequency shown on our computer screen. These photos were then uploaded to a shared google drive before being cropped and color-corrected as they are shown in the mosaics above. Below are some of my favorite patterns:
+
+<img src="https://user-images.githubusercontent.com/83727151/120912743-b9136b00-c646-11eb-89fd-0627f8948dff.jpg" width="540" height="410"/>  <img src="https://user-images.githubusercontent.com/83727151/120912747-c0d30f80-c646-11eb-8a8a-c4502437f565.jpg" width="410" height="410"/><img src="https://user-images.githubusercontent.com/83727151/120912749-c4669680-c646-11eb-840c-35166ead4c4c.jpg" width="475" height="380"/> <img src="https://user-images.githubusercontent.com/83727151/120912750-c7618700-c646-11eb-814a-13219c82a379.jpeg" width="475" height="360"/>
+
+
+
 
 ![alt text](https://github.com/salcott01/Chladni_Project/blob/main/IMG_8143.jpg)
 ### Our Hypothesis
@@ -89,5 +94,3 @@ Nonetheless -∇² shares eigenfunctions with ∇⁴, meaning that the wave and 
 ![](https://github.com/salcott01/Chladni_Project/blob/main/collage.png)
 
 Each of these represent degenerate nodes (a sum of eigenfunctions cos(nπx/a)cos(mπy/a) with n²+m² = const), which I generated via the hastily put-together ![test.py](https://github.com/salcott01/Chladni_Project/blob/main/test.py). Indeed, similar patterns were apparent in our collected data.
-
-## Citations

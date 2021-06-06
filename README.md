@@ -2,6 +2,7 @@
 - [Component List](#list-of-components)
 - [Design](#design)
 - [Building Process](#building-process)
+- [Data Collection](#data-collection)
 - [Results and Analysis](#results-and-analysis)
 ## List of Components
 * Aluminium Sheets --- 2 x $16
@@ -61,7 +62,7 @@ Cutting the plates was probably the most creative part of this project. Paul and
 
 
 
-## Data Collection/Finding Patterns
+## Data Collection
 One of the most time consuming parts of the project was finding good settings for the exciter to produce patterns. One big breakthrough was finding a website that produced louder waves for the exciter to play, which then allowed us to go up to higher frequencies (with lower volume into the exciter, the plate couldn't achieve resonance at high frequencies). After switching to the louder audio source, we were able to get much more intricate patterns than we could at lower frequencies. We discovered fairly late that this was possible, so we had a lot of data collection to do in the last week at the high frequencies. Sam did the most work finding frequencies, and took the majority of the photos shown in our results section.
 
 

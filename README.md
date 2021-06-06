@@ -3,7 +3,7 @@
 - [Design](#design)
 - [Building Process](#building-process)
 - [Results and Analysis](#results-and-analysis)
-- [Citations](#citations)
+- [Citations](#citations-sources)
 ## List of Components
 * Aluminium Sheets --- 2 x $16
 * Dayton DAEX25FHE-4 Audio Exciter --- 2 x $13.87
@@ -96,4 +96,6 @@ Nonetheless -∇² shares eigenfunctions with ∇⁴, meaning that the wave and 
 
 Each of these represent degenerate nodes (a sum of eigenfunctions cos(nπx/a)cos(mπy/a) with n²+m² = const), which I generated via the hastily put-together ![test.py](https://github.com/salcott01/Chladni_Project/blob/main/test.py). Indeed, similar patterns were apparent in our collected data.
 
-## Citations
+## Citations/Sources
+We used this guide as a starting point for the design of our Chladni plate:
+![Oobleck Chladni Plate](https://www.instructables.com/Oobleck-Chladni-Plate/)
